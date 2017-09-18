@@ -20,8 +20,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 Import code
 
 
-##Resources##
-
+## Resources ##
   [Raspberry Pi Zero W headless Setup](https://slippytrumpet.io/posts/raspberry-pi-zero-w-setup "")
   
   [RaspberryPI and Node.js : Step by Step Installation Guide](https://codeforgeek.com/2016/12/raspberrypi-node-js-installation-guide/ "") 
